@@ -1,0 +1,18 @@
+* Domclick Parser
+#+begin_quote
+Парсинг домклик через приватный api [[https://trashbox.ru/link/domclick-android][приложения]]
+#+end_quote
+
+TLDR; просто глянь [[./main.py][main.py]]
+
+[[./REVERSE.org][Разбор работы с API]]
+
+[[./API.org][Описание API]]
+
+Реализация доступа к приватному api получен через динамический анализ приложения домклик
+
+Инструменты:
+- frida
+- socksdroid
+- mitmproxy
+- python
